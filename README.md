@@ -9,13 +9,6 @@
 
 <br/>
 
-## **블로그**
-
-
-:star: [네이버 개발 블로그](https://blog.naver.com/wjdtkdgns234) <br/><br/>
-:star: [티스토리 개발 블로그](https://rogue-one.tistory.com/)
-
-<br/>
 
 ## **프로젝트**
 
