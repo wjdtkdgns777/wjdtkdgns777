@@ -11,8 +11,11 @@
 
 
 프로젝트
-[안심식당](https://github.com/wjdtkdgns777/smartfinder)
-[헬인원](https://github.com/wjdtkdgns777/HealthInOne)
+
+
+내 주변 정부인증 안심식당을 보여주는 [안심식당](https://github.com/wjdtkdgns777/smartfinder)
+
+AI챗봇서비스 + 커뮤니티로 헬스를 더 쉽게 [헬인원](https://github.com/wjdtkdgns777/HealthInOne)
 
 
 <!--
