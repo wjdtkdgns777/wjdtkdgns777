@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black)
 
 
-## :star: Welcome
+##  Welcome
 
-## 언제나 나아가고 싶은 안드로이드 개발자입니다
+## 언제나 나아가고 싶은 안드로이드 개발자
 #### :fire: 새로운 기술을 배우며 사용해보는것을 좋아합니다
 #### :fire: 제가 속한 공동체에 긍정적인 영향을 끼칠수 있는 앱만들기를 좋아합니다
 
@@ -11,8 +11,9 @@
 블로그
 <br/>
 
-#### :fire: [네이버 개발 블로그](https://blog.naver.com/wjdtkdgns234) 
-#### :fire: [티스토리 개발 블로그](https://rogue-one.tistory.com/)
+:star: [네이버 개발 블로그](https://blog.naver.com/wjdtkdgns234) <br/>
+:star: [티스토리 개발 블로그](https://rogue-one.tistory.com/)
+
 <br/>
 
 
