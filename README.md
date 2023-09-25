@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=black)
 
 
-##  Welcome
+##  **Welcome**
 
 언제나 나아가고 싶은 안드로이드 개발자입니다<br/><br/>
  :fire: 새로운 기술을 배우며 사용해보는것을 좋아합니다<br/><br/>
@@ -20,8 +20,8 @@
 ## **프로젝트**
 
 
-내 주변 정부인증 안심식당을 보여주는 [안심식당](https://github.com/wjdtkdgns777/smartfinder) <br/><br/>
-AI챗봇서비스 + 커뮤니티로 헬스를 더 쉽게 [헬인원](https://github.com/wjdtkdgns777/HealthInOne) <br/><br/>
+:star: 내 주변 정부인증 안심식당을 보여주는 [안심식당](https://github.com/wjdtkdgns777/smartfinder) <br/><br/>
+:star: AI챗봇서비스 + 커뮤니티로 헬스를 더 쉽게 [헬인원](https://github.com/wjdtkdgns777/HealthInOne) <br/><br/>
 
 
 <!--
