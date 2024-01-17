@@ -7,6 +7,10 @@
  :fire: 새로운 기술을 배우며 사용해보는것을 좋아합니다<br/><br/>
  :fire: 제가 속한 공동체에 긍정적인 영향을 끼칠수 있는 앱만들기를 좋아합니다<br/>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjdtkdgns234)](https://solved.ac/wjdtkdgns234/)
+
+
 <br/>
 
 
