@@ -25,8 +25,8 @@
 
 ## **프로젝트**
 
-:star: 대학생을 위한 커리어가이드 플랫폼 [패스파인더](https://github.com/path-makers/pathfinder-frontend) <br/><br/>
-:star: AI챗봇서비스 + 커뮤니티로 헬스를 더 쉽게 [헬인원](https://github.com/wjdtkdgns777/HealthInOne) <br/><br/>
+:star: 대학 축제에 지도를 펼치다 [유니페스트](https://github.com/Project-Unifest/unifest-android) <br/><br/>
+:star: 대학생을 위한 AI 커리어가이드 플랫폼 [패스파인더](https://github.com/path-makers/pathfinder-frontend) <br/><br/>
 :star: 내 주변 정부인증 안심식당을 보여주는 [안심식당](https://github.com/wjdtkdgns777/smartfinder) <br/><br/>
 
 
